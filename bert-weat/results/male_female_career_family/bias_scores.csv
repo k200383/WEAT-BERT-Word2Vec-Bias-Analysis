@@ -1,0 +1,17 @@
+word,group,association_score
+john,X,-0.06552544
+paul,X,-0.024368823
+mike,X,0.019596279
+kevin,X,-0.0019965768
+steve,X,0.048131227
+greg,X,0.030060321
+jeff,X,0.014162689
+bill,X,0.028125048
+amy,Y,-0.0017649233
+joan,Y,0.00021350384
+lisa,Y,-0.007826
+sarah,Y,-0.029546887
+diana,Y,-0.0060746074
+kate,Y,-0.021524966
+ann,Y,0.010673165
+donna,Y,0.021916717
