@@ -1,0 +1,17 @@
+word,group,association_score
+math,X,-0.02095443
+algebra,X,-0.026209593
+geometry,X,-0.004433036
+calculus,X,-0.014243424
+equations,X,0.0023988187
+computation,X,-0.020716757
+numbers,X,-0.001656115
+addition,X,-0.0050727725
+poetry,Y,-0.013801634
+art,Y,0.018707693
+shakespeare,Y,0.009795666
+dance,Y,-0.039993405
+literature,Y,-0.008600146
+novel,Y,-0.020629197
+symphony,Y,-0.009999812
+drama,Y,-0.020846546
