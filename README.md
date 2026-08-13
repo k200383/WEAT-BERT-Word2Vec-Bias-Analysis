@@ -3,8 +3,11 @@
 ### A Comparative Analysis of Word2Vec and BERT Using the Word Embedding Association Test
 
 **Authors:** Ayesha Faisal Mirza (1812956) & Eisha Fatima Shah (1905247)
+
 **Course:** NLP
+
 **Instructor:** Prof. Kai Kugler
+
 **Semester:** Summer 2026
 
 ---
